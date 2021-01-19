@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccc06a99.chunk.css",
+    "main.js": "/static/js/main.4f6f1b67.chunk.js",
+    "main.js.map": "/static/js/main.4f6f1b67.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2759c040.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2759c040.js.map",
+    "static/js/2.f11c59fb.chunk.js": "/static/js/2.f11c59fb.chunk.js",
+    "static/js/2.f11c59fb.chunk.js.map": "/static/js/2.f11c59fb.chunk.js.map",
+    "static/js/3.0432934d.chunk.js": "/static/js/3.0432934d.chunk.js",
+    "static/js/3.0432934d.chunk.js.map": "/static/js/3.0432934d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ccc06a99.chunk.css.map": "/static/css/main.ccc06a99.chunk.css.map",
+    "static/js/2.f11c59fb.chunk.js.LICENSE.txt": "/static/js/2.f11c59fb.chunk.js.LICENSE.txt",
+    "static/media/avatar.d94025aa.png": "/static/media/avatar.d94025aa.png",
+    "static/media/App.css": "/static/media/coffee-apple.a0c19713.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2759c040.js",
+    "static/js/2.f11c59fb.chunk.js",
+    "static/css/main.ccc06a99.chunk.css",
+    "static/js/main.4f6f1b67.chunk.js"
+  ]
+}

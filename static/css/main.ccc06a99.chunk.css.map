@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,2EAAgE,CAChE,wBAAyB,CACzB,qBAAsB,CACtB,mBAAoB,CACpB,gBACF","file":"main.ccc06a99.chunk.css","sourcesContent":["body {\n  background:  url(coffee-apple.jpg) no-repeat center center fixed;\n  -webkit-background: cover;\n  -moz-background: cover;\n  -o-background: cover;\n  background: cover;\n}"]}

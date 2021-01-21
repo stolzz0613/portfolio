@@ -3,5 +3,5 @@ body {
   -webkit-background: cover;
   -moz-background: cover;
   -o-background: cover;
-  background: cover;
+  background-size: cover;
 }

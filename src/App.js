@@ -9,8 +9,8 @@ function App() {
   return (
     <>
       <CssBaseline/>
-      <Route exact path="/" component={Home}/>
-      <Route path="/resume" component={Resume}/>
+      <Route exact path="/portfolio" component={Home}/>
+      <Route path="/portfolio/resume" component={Resume}/>
     </>
   );
 }
